@@ -1,0 +1,18 @@
+{
+	"greetings": {
+		"welcome": "Welcome to our legal chatbot!",
+		"intro": "How can I assist you today?"
+	},
+	"responses": {
+		"1": "Here is the response to question 1.",
+		"2": "Here is the response to question 2.",
+		"3": "Here is the response to question 3."
+	},
+	"greetings.welcome": "greetings.welcome",
+	"greetings.intro": "greetings.intro",
+	"Enter your query...": "Enter your query...",
+	"Submit": "Submit",
+	"responses.1": "responses.1",
+	"response": "response",
+	"Welcome to our legal chatbot!": "Welcome to our legal chatbot!"
+}
